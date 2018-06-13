@@ -24,6 +24,11 @@ DEPENDENCIES/REQUIREMENTS
 		Apple users can make use of Homebrew (http://brew.sh/) to install ffmpeg:
 			brew install ffmpeg
 
+On an *buntu Linux system you can acquire most dependences with:
+
+   sudo pip3 install configparser
+   sudo apt install contextfree
+
 HOW TO USE
 ----------
 After installing all the dependencies necessary, simply `cd` to the VIDA folder and, in the simplest form, type:
